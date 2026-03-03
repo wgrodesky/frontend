@@ -1,0 +1,12 @@
+body {
+  background-color: aqua;
+}
+
+p {
+  font-size: xx-small;
+  color: beige;
+}
+
+  .green, .green a {
+    color: green;
+  }
